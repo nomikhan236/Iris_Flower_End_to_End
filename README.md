@@ -10,7 +10,7 @@ python flask has been used to deploy this project on web
 ## Machine learning
 Support Vector machine model has been trained on the Iris data set
 
-## Demo:
+Here is a short demo:
 <p align="center"> 
-    <img src='https://github.com/nomikhan236/Iris_Flower_End_to_End/blob/master/demo_gif.gif'>
+    <img src='https://github.com/swapnilvishwakarma/Iris-ML/blob/master/demo_gif.gif'>
 </p>
